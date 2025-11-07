@@ -32,12 +32,47 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] **Business Analyst**: Requirements gathering sessions scheduled
+- [ ] **UX Designer**: Initial user research and discovery planned
+- [ ] **DevOps Engineer**: Infrastructure requirements identified
+- [ ] **QA Lead**: Quality standards and test approach discussed
+- [ ] **Customer Success Manager**: Customer impact assessment completed
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+## Cross-functional Hand-offs at Initiation
+
+### Product Manager → Business Analyst
+- Hand off: High-level business objectives and success metrics
+- Expected output: Detailed requirements and process analysis
+- Timing: After one-pager approval, before planning kickoff
+
+### Product Manager → UX Designer
+- Hand off: User problems and desired outcomes
+- Expected output: Research findings and initial design concepts
+- Timing: Early in initiation to inform planning
+
+### Project Manager → DevOps Engineer
+- Hand off: Infrastructure and deployment expectations
+- Expected output: Technical feasibility assessment and resource needs
+- Timing: During resource planning phase
+
+### Project Manager → QA Lead
+- Hand off: Quality expectations and acceptance thresholds
+- Expected output: Test strategy outline and resource estimate
+- Timing: Before moving to planning phase
+
+### Product Manager → Customer Success Manager
+- Hand off: Customer value proposition and anticipated impact
+- Expected output: Customer feedback and adoption considerations
+- Timing: After initial concept validation
 
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- All cross-functional hand-offs completed
+
+**Related:** This process addresses gaps identified in [Issue #6](https://github.com/ececiu/skills-scale-institutional-knowledge-using-copilot-spaces/issues/6).
