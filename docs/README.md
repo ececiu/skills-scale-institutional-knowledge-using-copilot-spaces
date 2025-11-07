@@ -9,14 +9,14 @@ Execution is organized around a visible project board and a disciplined pull req
 Roles and communications are explicit: Product Managers define outcomes and prioritize the backlog; Project Managers coordinate delivery, risks, and stakeholder communications; Developers implement and test; QA validates acceptance criteria; and Stakeholders provide input and decisions. Quality assurance emphasizes automated unit/integration tests, end‑to‑end smoke tests for critical flows, security scanning in CI, and a staged release process with rollback playbooks. Retrospectives capture learnings and convert them to prioritized improvement work.
 
 ## Process Documents
-- [Project Management Overview](docs/octoacme-project-management-overview.md)
-- [Project Initiation Guide](docs/octoacme-project-initiation.md)
-- [Project Planning](docs/octoacme-project-planning.md)
-- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
-- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
-- [Release & Deployment Guide](docs/octoacme-release-and-deployment.md)
-- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](docs/octoacme-roles-and-personas.md)
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
 
 ## How to use these docs
 - Use this README as the first place to orient yourself to OctoAcme processes.
