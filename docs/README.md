@@ -6,7 +6,9 @@ OctoAcme follows a lightweight, stage-gated lifecycle that moves work from initi
 
 Execution is organized around a visible project board and a disciplined pull request workflow: small, testable PRs linked to issues, automated CI checks, and required reviews before merging. Teams track progress with regular standups, weekly delivery syncs, sprint demos, and dashboards for key metrics. Risks and dependencies are recorded in a Risk Register and escalated through defined levels when necessary to keep delivery on track.
 
-Roles and communications are explicit: Product Managers define outcomes and prioritize the backlog; Project Managers coordinate delivery, risks, and stakeholder communications; Developers implement and test; QA validates acceptance criteria; and Stakeholders provide input and decisions. Quality assurance emphasizes automated unit/integration tests, end‑to‑end smoke tests for critical flows, security scanning in CI, and a staged release process with rollback playbooks. Retrospectives capture learnings and convert them to prioritized improvement work.
+Roles and communications are explicit: Product Managers define outcomes and prioritize the backlog; Project Managers coordinate delivery, risks, and stakeholder communications; Developers implement and test; QA Lead defines test strategy and validates acceptance criteria; DevOps Engineers build and maintain CI/CD pipelines and infrastructure; UX Designers conduct user research and create designs; Business Analysts gather requirements and define acceptance criteria; Customer Success Managers ensure customer adoption and gather feedback. Quality assurance emphasizes automated unit/integration tests, end‑to‑end smoke tests for critical flows, security scanning in CI, and a staged release process with rollback playbooks. Retrospectives capture learnings and convert them to prioritized improvement work with clear role accountability.
+
+The process documentation has been enhanced with explicit cross-functional hand-offs, accountability checkpoints, and inter-role collaboration guidelines to minimize gaps and ensure smooth coordination throughout the project lifecycle. For detailed role descriptions and interaction patterns, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Process Documents
 - [Project Management Overview](docs/octoacme-project-management-overview.md)
@@ -22,3 +24,5 @@ Roles and communications are explicit: Product Managers define outcomes and prio
 - Use this README as the first place to orient yourself to OctoAcme processes.
 - Keep the Project One-pager and key artifacts in the project repo under docs/ or .copilot/ so Copilot Spaces can use them as context.
 - If you need a new process doc or an update, create an issue using the "Add Content to Project Management Process Docs" template in .github/ISSUE_TEMPLATE/.
+
+**Note**: Process documentation enhanced with expanded role definitions, cross-functional hand-offs, and accountability improvements per [Issue #6](https://github.com/ececiu/skills-scale-institutional-knowledge-using-copilot-spaces/issues/6).
